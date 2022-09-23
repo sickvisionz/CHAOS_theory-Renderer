@@ -9,5 +9,5 @@ To use this project:
   * Paste the text of your JSON file into the text box and press the button.
 
 IPFS version: 
-  * https://ipfs.io/ipfs/Qma61uKSWcwfxAbh7C3gRERcJEmYDgRbPwWSpaEV5BGXig?filename=Render%20IPFS.html
+  * https://ipfs.io/ipfs/QmXcnM1FC1yFicGYX5kbtpV2CrX29Mmzk4SStuktDFWQ3p?filename=Render%20IPFS.html (download)
   * All libraries stored on IPFS and make take some time to load
